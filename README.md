@@ -1,2 +1,2 @@
-# DiploDatosAyVD
-Repositorio para trabajos prácticos de la cátedra Análisis y Visualización de Datos
+# DiploDatosG13
+Repositorio para trabajos prácticos de la Diplomatura de Ciencia de Datos
